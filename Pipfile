@@ -1,0 +1,8 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = false
+name = "pypi"
+
+[packages]
+
+[dev-packages]
