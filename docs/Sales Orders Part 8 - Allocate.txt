@@ -1,0 +1,21 @@
+this is a demo for allocating sales orders, depending a location page and I'm filter to sales order 11026 which has two sales on airline to allocate a sales order line means to reserve or consume inventory in a warehouse that will fill this order so for example if there are currently 18720 pieces available in Houston and I allocate this order from Houston then this number will decrease by 504 after that location
+ poodle will automatically default to the warehouse that has the most inventory of available so in this row and this sales order line there's only one but here where there's to buy open it up so I can see that both California and New York are surrounded in green cuz they can both build the order independently but we will befall to California cuz it has more available inventory
+ I can choose a different Warehouse if I want but it will default to the one that has the most
+ how in the first
+ call home tutorial we on the overview we touched on the feature of a required when I slipped take a look at that a bit closer now so let's bring in another sales over here. This filter and unfiltered on the ship to eat at 5:16 so I just brought in 11024 which is also for that same model number a lower quantity so it's available in three places if I can see California New York and Houston
+ how to get into default the California Gazette has the most but now let's edit this sales order
+ and we will say that it has a required Warehouse of New York
+ this can be done on the PS3 upload as well but should be done here in the manual entry
+ I confirm that and now I see that the background is that same shade as we have here if I can gauge the filter that I see it gives me just this order so the snow has a required warehouse and it defaults to the one that has the most just California but the one that's required as you can see that label here if you would like to override you can
+ select a different one it'll tell you very clearly that your overriding
+ when it's time to to allocate you can select any one of them or use the master toggle as long as you click even just one go get that button and it says allocate I normally if there was no overriding or there was no cut on any of the quantities cooking the confirm button would complete the application and all the orders you located within move on movie open sales orders page
+ but now that we over route we get we are overriding a required Warehouse there's an extra layer of confirmation will you bring up the order again and I'll show you that how you out of getting from the required warehouse and there's in Harrisonville there no but are you changing the quantity that you're not the original quantity is 3,000 That Remains the Same
+ if we were to
+ but the lower this quantity
+ and now we'll go back to our required Warehouse
+ and we
+ allocate again we'll get that later confirmation but this time it's showing me that I did indeed change the quantity I cut it by 500 pieces but I am allocating from the required Warehouse
+ if I were to change this quantity drop that down to PB 800
+ and then I
+ confirm again I will see that that's helped her Remains the Same confirming that I cut this quantity and I am satisfying required warehouse but here shows the quantity but since he is not there is a requirement so telling me I don't have to worry about it whatever I chose is fine
+ does that actually are confirmation but in the event that it's just the atypical Darnell Cox and you didn't not overriding anything just that first confirm button will allocate and your orders move move on to the open sales artist page so that is how you allocate sales orders thank you

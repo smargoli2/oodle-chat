@@ -1,0 +1,10 @@
+this is a demo for editing a sales order so around the pending allocation page and I have the page filter to
+ this model number which I only have one order that passes the filter and as I can see
+ the order is for 4250 pieces and by the ship date of April 26th I can only fill the order by combining the New York and California warehouses which is why it's in yellow so on the menu I have edit sales order so again if you have permission this will appear on your menu and this brings up this dialogue at its sales order and you can change whatever you want about this order in this Pacific demo will just change the quantity just to show how
+ the paint will update so now that we reduced the quantities so the expected Behavior now is that little will tell us that it is indeed available from just one Warehouse so if we confirm
+ about changes to Green
+ and we got the number one to tell us that the 4000 pieces are available from ascena Warehouse Force California I pop it open I will see that New York is still in yellow because New York can fill this order only with the help of another warehouse but California to do it independently therefore it's green
+ if I
+ same thing as reverse put it back
+ what it was and confirm and it goes back to what it was before but again once you pop open this form you can make any changes that you want to be part of the sales order mattress OneNote you'll see that again this page shows each row is a sales order line and every sales order line comes from of course the sales order but when you edit your editing the entire sales order as it says edit sales order so although you looking at just the one line when you pop open this form you know have the authority to change anything including any of the line so we see there's two and your you can focus on just this one
+ but again it brings up the entire sales order and that is how you edit a sales order from the pending application page I think you

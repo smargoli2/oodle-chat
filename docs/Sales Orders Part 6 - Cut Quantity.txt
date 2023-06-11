@@ -1,0 +1,10 @@
+this is a demo for the cut quantity feature available for sales orders that are pending a location so I'm on depending on location page and I have a filter to sales order 1106 which has two lines and I can see the first line has five words in four pieces second line is 4250 pieces now we've already seen that if I want to change the quantity I could just edit the sales order I change the quantity here but submitting it means that I've made a change to the sales order
+ but as a tool we've offered a cut quantity feature where we have this icon if you have permission to make edits and that allows you to change the quantity temporarily and see how the availability in your inventory changes and then you can make a decision and commit so for example
+ if I click that button and I say let's see what it looks like if I do for 223 which is the number of pieces in California
+ so nothing been submitted but the page updates and tells me that I can fill it from that one Warehouse I hope over that it was canceled yet it and it goes back to the way it was before
+ it also has case pack validation so this model number happens to be a one case back but this one is 6 so if I
+ as I type
+ so tell me that I have a problem and as I move the number it'll go away here but it will allow me to see how things play out at least
+ and it'll update any inventory if it's if it's applicable and it tells me that it's in a complete case back which the case back is 6 then I can cancel
+ once the I submit meaning I allocate which is something we'll discuss it later tutorial then the quantities that have been caught will then be edited and updated on the sales order
+ so this is how you can cut the quantity at least temporarily and then make a final segment on sales orders that are pending a location thank you

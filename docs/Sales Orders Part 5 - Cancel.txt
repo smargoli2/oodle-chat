@@ -1,0 +1,10 @@
+this is a demo for canceling a sales order line so I'm on depending allocation page and I have the page filter to set up sales order number 11025 and it has two lines so as we've seen in a previous tutorial I can edit the entire sales order mean I can pick it from this menu
+ work on this menu
+ it'll bring up the entire order and among the attics I can do is I can
+ cancel that line and submit
+ so that's one way to Conventional if you do it but as a shortcut there is a
+ cancel an option on the menu and it'll ask you to confirm and that's a quick way to get rid of it but since the sales order had multiple lines the sales order Stills he has only one line now we open that up again
+ what state has the one line
+ if we cancel this last line as well then the entire sales are will go away because once there's no lines then there's no need for the sales order so if I cancel this one
+ and confirm it is nothing left because sales order 11025 no longer exists
+ okay that's how you can cancel a sales order line from the pending application page thank you

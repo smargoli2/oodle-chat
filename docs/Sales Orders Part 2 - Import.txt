@@ -1,0 +1,10 @@
+this is a demo for importing sales orders into at all so I'm on depending on location page and I have the page filter to Avis customer and I currently have no orders for that customer my hover over that button that says Import Sales orders I click it and the first thing I select is the import type all the different configurations that we have for the different sales order so the first one here is the one I want
+ and then we'll notice that the area here is surrounded by a dash line which means I could drag and drop the file if I want to choose from the computer I could and I'll drag and drop a file I don't think you can see it on the video but I do believe you can see if you dash line moving that means I'm hovering over it and I drop it and there it is and I upload it and on the bottom it says it's processing the airport the important success and here we have
+ so it has the information from the CSV file
+ and now you have your order in the system out if you were to upload this file again then who do will just replace it or recognize that it's the same same file and customer Po and customer and I will just replace it so let me give you an example we had right now on the order 56 pieces so I open that file
+ and instead I change it to
+ 60 pieces
+ save that
+ I know import the file again
+ and I will drag and drop that same file
+ upload it and it went through and you'll see now it's 60 so oops sorry so if you need to if you made any kind of mistake or whatever it is you can always just a couple that same file again with any changes that you have a thank you
