@@ -1,0 +1,16 @@
+this is a demo for the swap model number feature that is available for sales orders that are pending application so we're on the pending application Page Fulton to sales order 11026 which has more sales order line we could see the model number on the sales order line is the rj50 m we have no available inventory we don't have an available by date there is no future inventory so we've already seen that we can make an edit if we want just like any other sales order and we can update it and choose a any other model number we want as a future
+ we offer the following we've seen on the customer
+ we can map a customer item number the same customer I remember to multiple who do model numbers
+ so on this page if you have her over and customer item number you'll see says if you all Associated model numbers when I pop that open to give me that list of all the older model numbers there are associated with this customer I do number that's on this sales order line
+ so I can choose
+ or I can also click on the link and open its dialogue and get some visibility into how much inventory is available so for example
+ the pop it open and I see that there is some availability
+ and if I
+ choose this one again I'm not submitting anything that's just seeing how inventory plays out if I can make that swap
+ but I can see that now it is available by the ship date but only by combining the two warehouses New York and California
+ I open that again will see that the photo model number that I just picked an alarm in the list cuz that's when I selected and the one that was there before that rg50 on his back
+ so we take a look at this model number will see it also has availability but
+ I changed the case pack 25 so
+ if I choose this one
+ so it can even deep turns green because it's available and entirely from California however and now fails the case back validation because it needs a case back at 5 I can update that like we've seen in the previous tutorial or if I move it back to
+ the one that was available by combining I got the yellow but there's no longer no longer a case back validation issue so this is how you can conveniently and again once you allocate as well discuss soon then that becomes an edit under the sales order so you can swap out the model numbers that are associated with specific customer item number and see how your inventory plays out thank you
