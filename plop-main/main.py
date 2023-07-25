@@ -1,11 +1,8 @@
 import os
-
 from dotenv import load_dotenv
-
 from langchain.vectorstores import Pinecone
 from langchain.embeddings.openai import OpenAIEmbeddings
 import pinecone
-
 from langchain.llms import OpenAI
 from langchain.chains.question_answering import load_qa_chain
 
@@ -24,18 +21,24 @@ pinecone.init(
     environment=PINECONE_ENV
 )
 index_name = 'langchain-oodle'
+
+#Get the pinecone client and initialize it
 index = pinecone.Index(index_name)
 search = Pinecone(index, embeddings.embed_query, 'text')
-llm = OpenAI(temperature=0, model_name='text-davinci-003')
+
+#Get the OpenAI LLM and load the QA chain
+llm = OpenAI(temperature=0.2, model_name='text-davinci-003')
 chain = load_qa_chain(llm, chain_type='stuff')
+
 
 while True:
     query = input('Enter a query: ')
-    docs = search.similarity_search(query, include_metadata=True)
-    # print(query)
-    # openai_response = llm(query)
-    # print('OpenAI says: ')
-    # print(openai_response)
+
+    #Return pinecone documents most similar to query
+    docs = search.similarity_search(query, include_metadata=True, k=1)
+    video_link = docs[0].metadata['video_link']
+
+    #Get the response from the docs using the qa chain
     response = chain.run(input_documents=docs, question=query)
-    print('Wiki says: ')
     print(response)
+    print('Video Link:', video_link)
