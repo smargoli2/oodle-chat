@@ -1,7 +1,6 @@
-# Tech stack
-Python, Langchain, OpenAI, &amp; Pinecone
+# oodle-chat
+Uses Python, Langchain, OpenAI and PineconeDB to answer questions about Oodle.
 
-## What does it do?
 
 Imagine if ChatGPT had context of your specific data and prioritized it while answering.
 This project allows you to easily take some data that you have (like a Wiki, knowledge base or database), and allows you to query OpenAI with the context of your own data.
